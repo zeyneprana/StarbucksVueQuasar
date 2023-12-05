@@ -1,0 +1,18 @@
+.text-decoration-none{
+    text-decoration: none;
+    color: black;
+}
+
+.list-style-none{
+    list-style: none;
+}
+
+
+.fs-3{
+    font-size: medium;
+}
+
+.border-bottom-black{
+    border-bottom: 2px solid black;
+}
+
