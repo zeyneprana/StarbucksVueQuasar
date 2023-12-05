@@ -1,11 +1,21 @@
 <template>
   <div>
-    <q-btn color="primary" label="Primary" />
+    <NavBar />
+    <ContentSide />
   </div>
 </template>
 
 <script>
-export default {
+import ContentSide from "./components/ContentSide.vue";
+import NavBar  from "./components/NavBar.vue";
 
+export default {
+  data() {
+    return {
+      
+    }
+  },
+
+  components:{ NavBar, ContentSide }
 }
 </script>
