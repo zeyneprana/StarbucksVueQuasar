@@ -1,7 +1,7 @@
 <template>
     <div class="product-card q-my-lg q-pa-sm">
         <div class=" photo-section">
-            <img :src="product.url">
+            <img :src="require(`@/assets/products/${product.url}`)">
         </div>
         <div class="col content-section q-mx-lg q-my-md">
             <p>{{product.title}}</p>
