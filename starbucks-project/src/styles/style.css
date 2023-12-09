@@ -1,3 +1,8 @@
+*{
+    font-family: cursive;
+
+}
+
 .text-decoration-none{
     text-decoration: none;
     color: black;
@@ -81,5 +86,5 @@
 
 
 footer{
-    background-color: white;
+    
 }
