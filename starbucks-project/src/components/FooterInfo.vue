@@ -29,7 +29,7 @@ export default defineComponent({
                 { id: 6, title: "Gift Card" },
                 { id: 7, title: "Bize Ulaşın" },
             ],
-            deneme: "DENEME!!!"
+           
 
         })
 
